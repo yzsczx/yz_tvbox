@@ -23,6 +23,10 @@
             "name": "0825小而精配置"
         },
         {
+            "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/9918.json",
+            "name": "9918舅舅要发"
+        },
+        {
             "url": "https://qu.ax/uanw.json",
             "name": "🐬蜂蜜"
         },
@@ -43,10 +47,6 @@
         {
             "url": "http://饭太硬.ga/tv",
             "name": "🌀饭太硬"
-        },
-        {
-            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
-            "name": "👩‍💼唐三"
         },
         {
             "url": "https://tvbox.cainisi.cf",
@@ -91,16 +91,8 @@
             "url": "https://dxawi.github.io/0/0.json",
             "name": "dxawi/github️"
         },
-        {
-            "url": "https://1002000.xyz/TVBox/dc/18/1.txt",
-            "name": "🚝高速列车🚈"
-        },
-		  {
-            "url": "https://1002000.xyz/TVBox/dc/18/2.txt",
-            "name": "🚞高速动车🚄"
-        },
 		{
-            "url": "https://1002000.xyz/TVBox/dc/18/3.json",
+            "url": "https://1002000.xyz/TVBox/dc/18/1.json",
             "name": "🚀火箭"
         }
        
