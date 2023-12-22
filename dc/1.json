@@ -22,6 +22,10 @@
             "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/0825.json",
             "name": "0825小而精配置"
         },
+	{
+            "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/0826.json",
+            "name": "0826饭太硬配置"
+        },
         {
             "url": "https://qu.ax/uanw.json",
             "name": "🐬蜂蜜"
@@ -45,16 +49,8 @@
             "name": "🌀饭太硬"
         },
         {
-            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
-            "name": "👩‍💼唐三"
-        },
-        {
             "url": "https://tvbox.cainisi.cf",
             "name": "👩菜妮丝"
-        },
-        {
-            "url": "https://gitee.com/the-latest-interface-of-box/box/raw/master/小米",
-            "name": "🍿小米"
         },
 	{
             "url": "https://www.agit.ai/relax/adcc/raw/branch/master/tvbox.json",
