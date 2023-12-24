@@ -2,36 +2,35 @@
   "urls": [
     {
       "url": "./0821.json",
-      "name": "大而全 0821"
+      "name": "高天流云 No.1"
     },
     {
       "url": "./0822.json",
-      "name": "极简配置 0822"
+      "name": "高天流云 No.2"
     },
-
+    {
+      "url": "./0825.json",
+      "name": "高天流云 PG"
+    },
     {
       "url": "./0826.json",
-      "name": "饭太硬 0826"
+      "name": "高天流云 FTY"
     },
     {
       "url": "./0827.json",
-      "name": "Fongmi 0827"
-    },
-    {
-      "url": "./9918.json",
-      "name": "久久要爬 9918"
+      "name": "高天流云 FM"
     },
     {
       "url": "./js.json",
-      "name": "道长drpy(js)仓库"
+      "name": "高天流云 JS"
     },
     {
       "url": "./XBPQ.json",
-      "name": "小米小爆脾气"
+      "name": "高天流云 XBPQ"
     },
     {
       "url": "./XYQ.json",
-      "name": "香雅情"
+      "name": "高天流云 XYQ"
     }
   ]
 }
