@@ -1,39 +1,43 @@
 {
   "urls": [
     {
-      "url": "./0821.json",
+      "url": "https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/tvbox.json",
+      "name": "2哈CC"
+    },
+    {
+      "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/0821.json",
       "name": "大而全 0821"
     },
     {
-      "url": "./0822.json",
+      "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/0822.json",
       "name": "极简配置 0822"
     },
     {
-      "url": "./0825.json",
+      "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/0825.json",
       "name": "小而精PG 0825"
     },
     {
-      "url": "./0826.json",
+      "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/0826.json",
       "name": "饭太硬 0826"
     },
     {
-      "url": "./0827.json",
+      "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/0827.json",
       "name": "Fongmi 0827"
     },
     {
-      "url": "./9918.json",
+      "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/9918.json",
       "name": "久久要爬 9918"
     },
     {
-      "url": "./js.json",
+      "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/js.json",
       "name": "道长drpy(js)仓库"
     },
     {
-      "url": "./XBPQ.json",
+      "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/XBPQ.json",
       "name": "小米小爆脾气"
     },
     {
-      "url": "./XYQ.json",
+      "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/XYQ.json",
       "name": "香雅情"
     }
   ]
