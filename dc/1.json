@@ -11,12 +11,12 @@
             "name": "🚀 道长"
         },
         {
-            "url": "https://1002000.xyz/TVBox/2hacc/tvbox.json",
-            "name": "🐶2哈社区"
+            "url": "https://jihulab.com/okcaptain/kko/raw/main/ok.txt",
+            "name": "🐶okjack"
         },
         {
             "url": "http://stuid.s306.xrea.com/2hacc/tvbox.json",
-            "name": "🐶2哈社区备份"
+            "name": "🐶2哈社区"
         },
         {
             "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/0821.json",
@@ -29,6 +29,10 @@
 	{
             "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/0826.json",
             "name": "0826饭太硬配置"
+        },
+	{
+            "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/0827.json",
+            "name": "0827源于fongmi"
         },
 	{
             "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/XYQ.json",
