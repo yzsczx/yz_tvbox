@@ -2,8 +2,7 @@
 //http://stuid.s306.xrea.com/dc/index.txt
 {
 "storeHouse": [
-{"sourceName":"🏡自用优选仓","sourceUrl":"https://raw.gitmirror.com/yzsczx/yz_tvbox/main/dc/1.json"},
-{"sourceName":"🏡自用优选仓(github)","sourceUrl":"https://cdn.jsdelivr.net/gh/yzsczx/yz_tvbox@master/dc/index.txt"},
+{"sourceName":"🏡自用优选仓(github)","sourceUrl":"1.json"},
 {"sourceName":"🚘OK影视多线配置","sourceUrl":"https://cdn.jsdelivr.net/gh/qist/tvbox@master/0707.json"},
 {"sourceName":"🚘蚂蚁窝③🚖","sourceUrl":"https://agit.ai/pinghui/Barton/raw/branch/master/%ef%bb%bf%e6%96%b0%e8%9a%82%e8%9a%81%e7%aa%9d3.txt"},
 {"sourceName":"🚘蚂蚁窝④🚖","sourceUrl":"https://agit.ai/pinghui/Barton/raw/branch/master/%e6%96%b0%e8%9a%82%e8%9a%81%e7%aa%9d4.txt"},
