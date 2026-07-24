@@ -1,4 +1,5 @@
-//https://raw.gitmirror.com/yzsczx/tvboxjs/master/dc/index.txt
+//https://cdn.jsdelivr.net/gh/yzsczx/yz_tvbox@master/dc/index.txt
+//http://stuid.s306.xrea.com/dc/index.txt
 {
 "storeHouse": [
 {"sourceName":"🏡自用优选仓","sourceUrl":"https://raw.gitmirror.com/yzsczx/yz_tvbox/main/dc/1.json"},
